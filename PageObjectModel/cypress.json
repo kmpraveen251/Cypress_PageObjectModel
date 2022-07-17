@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://www.hp.com/",
+    "defaultCommandTimeout": 15000,
+    "pageLoadTimeout": 40000
+}
